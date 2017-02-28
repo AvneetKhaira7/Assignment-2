@@ -1,0 +1,30 @@
+{
+  "name": "Assignment-2",
+  "description": "My second assignment on portfolio created using express, node and EJS",
+  "main": "server.js",
+  "authors": [
+    "Avneet Kaur"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "COMP-308",
+    "Assignment-2",
+    "Node",
+    "Express",
+    "EJS",
+    "Template"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "3.1.1",
+    "bootstrap": "boostrap#^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
